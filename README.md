@@ -2,7 +2,7 @@
 This repository contains the files used in lecture zero of the Computer-aided Diagnostics course of 2020/2021.
 
 ##### Goals
-To introduce Python and several tools of numpy, pandas, matplotlib, scikit-learn, scikit-image, to future students of Computer-aided Diagnostics. 
+To introduce Python, numpy, pandas, matplotlib, scikit-learn, scikit-image, to students of the Computer-aided Diagnostics course. 
 
 ##### Requirements Installation
 Windows or Mac:  
