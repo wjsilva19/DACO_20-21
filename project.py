@@ -189,4 +189,12 @@ membership, centroids, centroids_history = k_means(X, k=3)
 
 
 
+##%% 
+#Logistic Regression
+
+
+#Enconde labels to use in classifier (logistic regression or others)
+#le = preprocessing.LabelEncoder()
+#y = le.fit_transform(data[['class']])
+
 
