@@ -13,5 +13,3 @@ Ubuntu:
 sudo apt install python3-pip  
 pip3 install --user --upgrade scikit-learn pandas scikit-image matplotlib
 
-##### Author:  
-Wilson Silva - Research Assistant at INESC TEC, PhD Candidate and Invited Assistant at Faculty of Engineering, University of Porto.
